@@ -1,3 +1,7 @@
+def new_sum(a,b):
+ sum=a+b
+ return sum
+
+
 a,b=10,20
-sum=a+b
-print(sum)
+print(new_sum(a,b))
